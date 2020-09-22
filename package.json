@@ -1,0 +1,8 @@
+{
+  "name": "HelloWorld",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kbp101/HelloWorld.git",
+  "author": "Krongkaew Ponboobpha <krongkaew@enres.co>",
+  "license": "MIT"
+}
